@@ -327,3 +327,104 @@ export const socials = [
     url: "#",
   },
 ];
+
+export const customers = [
+  {
+    id: 1,
+    name: "Rajesh Sharma",
+    email: "rajesh.sharma@example.com",
+    phone: "+91 9876543210",
+    latitude: 28.6139,   // New Delhi
+    longitude: 77.209,
+    address: "Connaught Place, New Delhi"
+  },
+  {
+    id: 2,
+    name: "Priya Singh",
+    email: "priya.singh@example.com",
+    phone: "+91 9123456789",
+    latitude: 19.076,    // Mumbai
+    longitude: 72.8777,
+    address: "Andheri West, Mumbai"
+  },
+  {
+    id: 3,
+    name: "Amit Patel",
+    email: "amit.patel@example.com",
+    phone: "+91 9988776655",
+    latitude: 23.0225,   // Ahmedabad
+    longitude: 72.5714,
+    address: "Navrangpura, Ahmedabad"
+  },
+  {
+    id: 4,
+    name: "Neha Agarwal",
+    email: "neha.agarwal@example.com",
+    phone: "+91 8765432109",
+    latitude: 13.0827,   // Chennai
+    longitude: 80.2707,
+    address: "T. Nagar, Chennai"
+  },
+  {
+    id: 5,
+    name: "Vikram Khanna",
+    email: "vikram.khanna@example.com",
+    phone: "+91 8877665544",
+    latitude: 22.5726,   // Kolkata
+    longitude: 88.3639,
+    address: "Salt Lake, Kolkata"
+  }
+];
+
+export const workers = [
+  // {
+  //   id: 1,
+  //   name: "Sunil Verma",
+  //   skill: "Electrician",
+  //   phone: "+91 9654321890",
+  //   latitude: 28.6189,   // Within 5 km of New Delhi
+  //   longitude: 77.2140,
+  //   experience: "5 years",
+  //   profilePicUrl: "https://images.unsplash.com/photo-1730302737916-2a1871ff3ec7?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  // },
+  // {
+  //   id: 2,
+  //   name: "Anjali Mehta",
+  //   skill: "Plumber",
+  //   phone: "+91 9321456780",
+  //   latitude: 28.6090,   // Within 5 km of New Delhi
+  //   longitude: 77.2040,
+  //   experience: "3 years",
+  //   profilePicUrl: "https://images.unsplash.com/photo-1730302737916-2a1871ff3ec7?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  // },
+  {
+    id: 3,
+    name: "Ravi Kumar",
+    skill: "Carpenter",
+    phone: "+91 9812345678",
+    latitude: 28.6150,   // Within 5 km of New Delhi
+    longitude: 77.2100,
+    experience: "7 years",
+    profilePicUrl: "https://images.unsplash.com/photo-1730302737916-2a1871ff3ec7?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    id: 4,
+    name: "Deepika Joshi",
+    skill: "Painter",
+    phone: "+91 9212345678",
+    latitude: 25.3176,   // Lucknow
+    longitude: 82.9739,
+    experience: "4 years",
+    profilePicUrl: "https://images.unsplash.com/photo-1730302737916-2a1871ff3ec7?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    id: 5,
+    name: "Manoj Shetty",
+    skill: "Electrician",
+    phone: "+91 9876501234",
+    latitude: 15.3173,   // South Goa
+    longitude: 74.1193,
+    experience: "6 years",
+    profilePicUrl: "https://images.unsplash.com/photo-1730302737916-2a1871ff3ec7?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+];
